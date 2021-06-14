@@ -5,4 +5,5 @@
 - https://github.com/2006pmach/awesome-active-learning
 - https://github.com/yongjin-shin/awesome-active-learning
 - https://reposhub.com/python/learning-tutorial/baifanxxx-awesome-active-learning.html
+- https://paperswithcode.com/paper/deep-bayesian-active-learning-with-image-data
 - 
