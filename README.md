@@ -9,3 +9,5 @@
 - https://paperswithcode.com/paper/deep-bayesian-active-learning-with-image-data
 - Learning Speaker Representations with Mutual Information
 - https://www.paperdigest.org/2021/05/icassp-2021-highlights/https://www.paperdigest.org/2021/05/icassp-2021-highlights/
+- https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/lectures/active/slides.pdf
+- https://auai.org/uai2013/prints/papers/143.pdf
