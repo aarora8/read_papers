@@ -8,4 +8,4 @@
 - https://reposhub.com/python/learning-tutorial/baifanxxx-awesome-active-learning.html
 - https://paperswithcode.com/paper/deep-bayesian-active-learning-with-image-data
 - Learning Speaker Representations with Mutual Information
-- 
+- https://www.paperdigest.org/2021/05/icassp-2021-highlights/https://www.paperdigest.org/2021/05/icassp-2021-highlights/
