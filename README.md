@@ -1,6 +1,9 @@
 # read_papers
 
 - Dan's document on Mutual Information
+- https://www.aclweb.org/anthology/2020.wmt-1.130.pdf (Data Selection for Unsupervised Translation of German–Upper Sorbian)
+- https://www.aclweb.org/anthology/W18-6314.pdf (Denoising Neural Machine Translation Training with Trusted Data and Online Data Selection)
+- https://arxiv.org/pdf/2102.10243v1.pdf (Machine Translation Customization via Automatic Training Data Selection from the Web)
 - https://github.com/thunlp/PLMpapers
 - https://github.com/ICASSP2021-tutorial9/Distant_conversational_ASR_and_analysis/blob/main/ICASSP2021_tutorial_T9_slides.pdf
 - https://github.com/2006pmach/awesome-active-learning
